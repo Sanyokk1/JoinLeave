@@ -1,0 +1,8 @@
+name: JoinLeave
+version: ${project.version}
+main: main.joinleave.JoinLeave
+api-version: 1.16
+prefix: [J/L]
+authors: [Dragonraider]
+description: Plgin for FlameCraft server. Custom join/leave
+website: https://discord.gg/YfYxVPw
